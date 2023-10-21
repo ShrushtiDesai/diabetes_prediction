@@ -1,0 +1,57 @@
+ 122  which git
+  123  clear
+  124  python
+  125  python3
+  126  clear
+  127  pip3 install streamlit
+  128  git clone https://github.com/R1SE23/diabetes_prediction.git
+  129  git clone https://github.com/R1SE23/diabetes-prediction.git
+  130  cd diabetes-prediction/
+  131  ls
+  132  streamlit run diabetes_detection.py 
+  133  pip3 install tensorflow
+  134  streamlit run diabetes_detection.py 
+  135  pip3 install AdaBeliefOptimizer
+  136  pip install adabelief_tf==0.2.1
+  137  streamlit run diabetes_detection.py 
+  138  pip install -r requirements.txt
+  139  streamlit run diabetes_detection.py 
+  140  pip install -r requirements.txt
+  141  streamlit run diabetes_detection.py 
+  142  pip install protoc==3.20.1
+  143  pip install protoc==3.20.0
+  144  pip install protoc==3.19.0
+  145  pip install protobuf==3.29.0
+  146  pip install protobuf==3.19.4
+  147  streamlit run diabetes_detection.py
+  148  cd ..
+  149  git clone https://github.com/ShrushtiDesai/diabetes_prediction.git
+  150  ls
+  151  cd diabetes_prediction/
+  152  ls
+  153  pip install -r requirements.txt
+  154  python3 model.py
+  155  cd ..
+  156  rm -rf diabetes_prediction/
+  157  rm -rf diabetes-prediction/
+  158  git clone https://github.com/ShrushtiDesai/diabetes_prediction.git
+  159  cd diabetes_prediction/
+  160  pip install -r requirements.txt
+  161  python3 model.py
+  162  streamlit run main.py
+  163  pip install altair
+  164  streamlit run main.py
+  165  pip install altair.vegalite.v4
+  166  pip install streamlit
+  167  streamlit run main.py
+  168  pip install --upgrade streamlit
+  169  streamlit run main.py
+  170  pip install plotly>=5.0.0
+  171  streamlit run main.py
+  172  pip install plotly
+  173  pip install --upgrade plotly
+  174  streamlit run main.py
+  175  pip freeze > requirements.txt
+  176  ls
+  177  cat requirements.txt
+  178  history
